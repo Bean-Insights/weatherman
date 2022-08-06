@@ -1,0 +1,13 @@
+# Only this config file should be updated monthly and not the scripts except\
+# absolutely necessary
+
+# Change the following when running in your virtual env.
+input_data: "d:/my files_/GIT/projects/Collidascope/weatherman_october_2021-main/weatherman_october_2021-main/data/"
+
+
+# these don't need changing
+uk_weather_data: "uk_weather.csv"
+germany_weather_data: "germany_weather.csv"
+netherlands_weather_data: "netherlands_weather.csv"
+
+api_key: "bc2d732248597a8725c1f5d51e5d3e8a"
