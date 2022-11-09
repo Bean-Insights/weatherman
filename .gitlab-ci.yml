@@ -1,0 +1,5 @@
+get-weather:
+  image:
+  before_script:
+  script:
+    - python weather_api_call.py

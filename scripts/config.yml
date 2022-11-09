@@ -2,7 +2,7 @@
 # absolutely necessary
 
 # Change the following when running in your virtual env.
-input_data: "d:/my files_/GIT/projects/Collidascope/weatherman_october_2021-main/weatherman_october_2021-main/data/"
+input_data: "./data/"
 
 
 # these don't need changing
